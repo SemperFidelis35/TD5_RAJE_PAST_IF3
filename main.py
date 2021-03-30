@@ -1,5 +1,5 @@
 
-from book import Book
+from Book import Book
 
 def main():
     book = Book("TEST")
